@@ -1,1 +1,1 @@
-# calculator
+It's a learning project calculator that can only perform addition, subtraction, multiplication, division and factorials. There is currently no command to exit the program so if you are running it in your IDE, use the hotkey that ends programs(Ctrl + C for Visual Studio).
